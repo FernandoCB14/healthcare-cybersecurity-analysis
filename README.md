@@ -1,16 +1,16 @@
-# 🏥 Healthcare Cybersecurity Analysis
+# Healthcare Cybersecurity Analysis
 
 Software engineer transitioning into data science and digital transformation through cybersecurity analytics.
 
 ---
 
-# 📌 Project Overview
+# Project Overview
 
 Analysis of cybersecurity vulnerabilities affecting healthcare systems using Python, SQL, and Power BI techniques.
 
 ---
 
-# 🎯 Objectives
+# Objectives
 
 - Identify the most common vulnerabilities
 - Analyze severity distribution
@@ -19,7 +19,7 @@ Analysis of cybersecurity vulnerabilities affecting healthcare systems using Pyt
 
 ---
 
-# 🛠️ Technologies Used
+# Technologies Used
 
 - Python
 - Pandas
@@ -30,7 +30,7 @@ Analysis of cybersecurity vulnerabilities affecting healthcare systems using Pyt
 
 ---
 
-# 🔍 Key Insights
+# Key Insights
 
 - Medium severity vulnerabilities dominate the dataset
 - CWE-89 (SQL Injection) is among the most frequent weaknesses
@@ -38,7 +38,7 @@ Analysis of cybersecurity vulnerabilities affecting healthcare systems using Pyt
 
 ---
 
-# 📊 Severity Distribution
+# Severity Distribution
 
 ![Severity Distribution](images/severity_distribution.png)
 
