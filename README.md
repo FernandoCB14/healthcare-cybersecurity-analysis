@@ -20,4 +20,5 @@ Explore cybersecurity risk patterns
 Medium severity vulnerabilities dominate the dataset
 CWE-89 (SQL Injection) is among the most frequent weaknesses
 Network attack vectors appear most frequently
+![Severity Distribution](images/severity_distribution.png)
 
