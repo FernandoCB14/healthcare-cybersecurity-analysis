@@ -39,6 +39,7 @@ Analysis of cybersecurity vulnerabilities affecting healthcare systems using Pyt
 ---
 
 # Severity Distribution
+# This section explores the distribution of vulnerability severity levels.
 
 ![Severity Distribution](images/severity_distribution.png)
 
