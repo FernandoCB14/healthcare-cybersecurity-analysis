@@ -44,12 +44,9 @@ Analysis of cybersecurity vulnerabilities affecting healthcare systems using Pyt
 ---
 # This section explores the distribution of the attack vectors levels
 ![Attack Vectors](images/Attack_vectors.png)
-
 ---
 # "Severity Distribution by Attack Vector"
-# The NETWORK attack vector represents the highest concentration of vulnerabilities
-#  in the dataset, with Medium severity cases appearing most frequently, followed by High 
-#  severity vulnerabilities.
+![Severity_Distribution](images/Dis_by_attack_vectors.png)
 
 ---
 # Top weaknesses
