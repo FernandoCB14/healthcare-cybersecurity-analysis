@@ -50,3 +50,8 @@ Analysis of cybersecurity vulnerabilities affecting healthcare systems using Pyt
 
 ---
 # Top weaknesses
+![weaknesses](images/weaknesses.png)
+---
+# Vulnerabilities by year
+![Vulnerabilities](images/Vulnerabilities.png)
+
